@@ -1,0 +1,169 @@
+mainMenu:
+  size: 45
+  title: "&f&lO&9&lC &8| &e&lSklep Menu glowne"
+  gui:
+    0:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    1:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    2:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    3:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    4:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    5:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    6:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    7:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    8:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    9:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    17:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    18:
+      material: white_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    20:
+      material: emerald_ore
+      amount: 1
+      command: "/sklep kup"
+      name: "&a&lKupno przedmiotow"
+      lore:
+        - "&7Kliknij, aby otworzyc menu kupna"
+    22:
+      material: gold_ingot
+      amount: 1
+      command: "none"
+      name: "&eStan konta"
+      lore:
+        - "&a$&7%vault_eco_balance%"
+    24:
+      material: redstone_ore
+      amount: 1
+      command: "/sklep sprzedaj"
+      name: "&4&lSprzedaz przedmiotow"
+      lore:
+        - "&7Kliknij, aby otworzyc menu sprzedazy"
+    26:
+      material: white_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    27:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    35:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    36:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    37:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    38:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    39:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    40:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    41:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    42:
+      material: light_blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    43:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []
+    44:
+      material: blue_stained_glass_pane
+      amount: 1
+      command: "none"
+      name: ""
+      lore: []

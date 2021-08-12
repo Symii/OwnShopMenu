@@ -1,0 +1,13 @@
+name: OwnShopMenu
+main: eu.owncraft.ownshopmenu.Main
+author: Symi
+version: 1.0
+website: https://owncraft.eu
+api-version: 1.16
+
+commands:
+  sklep:
+    description: "Komenda na sklep"
+    aliases:
+      - shop
+      - skup
